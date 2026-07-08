@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "恒瑞医药",
+    "full_name": "江苏恒瑞医药股份有限公司",
+    "stock_code_sh": "600276",
+    "stock_code_hk": "",
+    "sector": "创新药（化学药）",
+    "description": "国内创新药绝对龙头，研发投入行业第一，管线最丰富，涵盖肿瘤、自身免疫、糖尿病、心血管等多个治疗领域",
+    "website": "https://www.hrpharm.com",
+    "headquarters": "江苏连云港"
+  },
+  {
+    "id": 2,
+    "name": "百济神州",
+    "full_name": "百济神州有限公司",
+    "stock_code_sh": "688235",
+    "stock_code_hk": "06160",
+    "sector": "创新药（生物药）",
+    "description": "中国创新药出海标杆，首家跑通\"中国研发+全球销售\"模式，专注于肿瘤药物开发",
+    "website": "https://www.beigene.cn",
+    "headquarters": "北京"
+  },
+  {
+    "id": 3,
+    "name": "信达生物",
+    "full_name": "信达生物制药集团",
+    "stock_code_sh": "",
+    "stock_code_hk": "01801",
+    "sector": "创新药（生物药）",
+    "description": "PD-1国产龙头，生物药领军企业，减重药管线重磅，布局肿瘤、自身免疫、代谢等领域",
+    "website": "https://www.innoventbio.com",
+    "headquarters": "江苏苏州"
+  },
+  {
+    "id": 4,
+    "name": "科伦药业",
+    "full_name": "四川科伦药业股份有限公司",
+    "stock_code_sh": "002422",
+    "stock_code_hk": "",
+    "sector": "创新药+输液",
+    "description": "全产业链龙头，子公司科伦博泰ADC赛道核心玩家，输液+创新药双轮驱动",
+    "website": "https://www.kelun.com",
+    "headquarters": "四川成都"
+  },
+  {
+    "id": 5,
+    "name": "荣昌生物",
+    "full_name": "荣昌生物制药（烟台）股份有限公司",
+    "stock_code_sh": "688331",
+    "stock_code_hk": "09995",
+    "sector": "创新药（ADC/自身免疫）",
+    "description": "国产ADC先行者，维迪西妥单抗商业化放量，自身免疫与肿瘤双赛道布局",
+    "website": "https://www.remegen.cn",
+    "headquarters": "山东烟台"
+  },
+  {
+    "id": 6,
+    "name": "康方生物",
+    "full_name": "康方生物科技（开曼）有限公司",
+    "stock_code_sh": "",
+    "stock_code_hk": "09926",
+    "sector": "创新药（双抗/肿瘤免疫）",
+    "description": "双抗赛道领军企业，开坦尼PD-1/CTLA-4双抗全球首创，专注肿瘤免疫治疗",
+    "website": "https://www.akesobio.com",
+    "headquarters": "广东中山"
+  },
+  {
+    "id": 7,
+    "name": "复星医药",
+    "full_name": "上海复星医药（集团）股份有限公司",
+    "stock_code_sh": "600196",
+    "stock_code_hk": "02196",
+    "sector": "综合制药",
+    "description": "综合性医药集团，业务覆盖研发/制造/流通全链条，创新药+医疗健康双轮驱动",
+    "website": "https://www.fosunpharma.com",
+    "headquarters": "上海"
+  },
+  {
+    "id": 8,
+    "name": "华东医药",
+    "full_name": "杭州华东医药集团股份有限公司",
+    "stock_code_sh": "000963",
+    "stock_code_hk": "",
+    "sector": "创新药+医美",
+    "description": "医药+医美双轮驱动，GLP-1管线布局领先，深耕内分泌、自身免疫领域",
+    "website": "https://www.eastchinapharm.com",
+    "headquarters": "浙江杭州"
+  },
+  {
+    "id": 9,
+    "name": "药明康德",
+    "full_name": "无锡药明康德新药开发股份有限公司",
+    "stock_code_sh": "603259",
+    "stock_code_hk": "02359",
+    "sector": "CXO（全产业链）",
+    "description": "全球CXO行业龙头，CRDMO一体化平台标杆，覆盖药物研发全产业链",
+    "website": "https://www.wuxiapptec.com.cn",
+    "headquarters": "上海"
+  },
+  {
+    "id": 10,
+    "name": "泰格医药",
+    "full_name": "杭州泰格医药科技股份有限公司",
+    "stock_code_sh": "300347",
+    "stock_code_hk": "03347",
+    "sector": "CXO（临床CRO）",
+    "description": "国内临床CRO龙头，专注临床试验服务，覆盖临床研究全流程",
+    "website": "https://www.tigermedgrp.com",
+    "headquarters": "浙江杭州"
+  },
+  {
+    "id": 11,
+    "name": "凯莱英",
+    "full_name": "凯莱英医药集团（天津）股份有限公司",
+    "stock_code_sh": "002821",
+    "stock_code_hk": "06821",
+    "sector": "CXO（CDMO）",
+    "description": "小分子CDMO技术龙头，GLP-1 CDMO核心受益，服务全球制药企业",
+    "website": "https://www.asymchem.com",
+    "headquarters": "天津"
+  },
+  {
+    "id": 12,
+    "name": "康龙化成",
+    "full_name": "康龙化成（北京）新药技术股份有限公司",
+    "stock_code_sh": "300759",
+    "stock_code_hk": "03759",
+    "sector": "CXO（临床前+CDMO）",
+    "description": "实验室CRO+CDMO一体化，业务延伸至临床，提供全流程研发服务",
+    "website": "https://www.pharmaron.com",
+    "headquarters": "北京"
+  },
+  {
+    "id": 13,
+    "name": "片仔癀",
+    "full_name": "漳州片仔癀药业股份有限公司",
+    "stock_code_sh": "600436",
+    "stock_code_hk": "",
+    "sector": "中药（绝密配方）",
+    "description": "国家绝密配方，中药稀缺龙头，消费属性强，核心产品片仔癀锭剂",
+    "website": "https://www.zzpzh.com",
+    "headquarters": "福建漳州"
+  },
+  {
+    "id": 14,
+    "name": "云南白药",
+    "full_name": "云南白药集团股份有限公司",
+    "stock_code_sh": "000538",
+    "stock_code_hk": "",
+    "sector": "中药+日化",
+    "description": "中药+日化双轮驱动，百年品牌，经营稳健，牙膏等日化产品市占率领先",
+    "website": "https://www.yunnanbaiyao.com.cn",
+    "headquarters": "云南昆明"
+  },
+  {
+    "id": 15,
+    "name": "同仁堂",
+    "full_name": "北京同仁堂股份有限公司",
+    "stock_code_sh": "600085",
+    "stock_code_hk": "",
+    "sector": "中药（老字号）",
+    "description": "百年中药老字号，品牌价值深厚，经典中成药基本盘扎实",
+    "website": "https://www.tongrentang.com",
+    "headquarters": "北京"
+  },
+  {
+    "id": 16,
+    "name": "华润三九",
+    "full_name": "华润三九医药股份有限公司",
+    "stock_code_sh": "000999",
+    "stock_code_hk": "",
+    "sector": "中药（现代中药/OTC）",
+    "description": "现代中药+OTC龙头，999感冒灵等大品种众多，CHC健康消费品+处方药双轮",
+    "website": "https://www.999.com.cn",
+    "headquarters": "广东深圳"
+  },
+  {
+    "id": 17,
+    "name": "万泰生物",
+    "full_name": "北京万泰生物药业股份有限公司",
+    "stock_code_sh": "603392",
+    "stock_code_hk": "",
+    "sector": "生物制品（疫苗）",
+    "description": "HPV疫苗国产龙头，二价HPV市占率领先，疫苗+诊断试剂双主业",
+    "website": "https://www.ysten.com",
+    "headquarters": "北京"
+  },
+  {
+    "id": 18,
+    "name": "华兰生物",
+    "full_name": "华兰生物工程股份有限公司",
+    "stock_code_sh": "002007",
+    "stock_code_hk": "",
+    "sector": "生物制品（血制品+疫苗）",
+    "description": "血制品+疫苗双主业，行业壁垒高，经营稳定，流感疫苗市占率领先",
+    "website": "https://www.hualanbio.com",
+    "headquarters": "河南新乡"
+  },
+  {
+    "id": 19,
+    "name": "迈瑞医疗",
+    "full_name": "深圳迈瑞生物医疗电子股份有限公司",
+    "stock_code_sh": "300760",
+    "stock_code_hk": "",
+    "sector": "医疗器械",
+    "description": "医疗器械综合龙头，监护/超声/IVD三线并进，研发投入行业第一",
+    "website": "https://www.mindray.com",
+    "headquarters": "广东深圳"
+  },
+  {
+    "id": 20,
+    "name": "联影医疗",
+    "full_name": "上海联影医疗科技股份有限公司",
+    "stock_code_sh": "688271",
+    "stock_code_hk": "",
+    "sector": "医疗器械（影像）",
+    "description": "高端医学影像设备国产替代龙头，打破海外垄断，覆盖CT/MR/PET-CT等",
+    "website": "https://www.united-imaging.com",
+    "headquarters": "上海"
+  }
+]
